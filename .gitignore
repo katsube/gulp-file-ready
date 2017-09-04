@@ -1,0 +1,11 @@
+## this project
+dist/*.html
+
+## node
+node_modules/
+
+## Mac
+.DS_Store
+
+## VSCode
+.vscode
