@@ -1,5 +1,6 @@
 ## this project
 tool/large.txt
+dist/large.txt
 
 ## node
 node_modules/
